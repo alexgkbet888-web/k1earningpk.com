@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game games","/","homepage",1
+"game","k1 game teen patti","/guides/teen-patti-guide/","game",1
+"game","k1 game mines","/guides/mines-beginner-guide/","game",1
+"game","k1 game crash games","/guides/crash-games-explained/","game",1
+"game","k1 game dragon tiger","/guides/dragon-tiger-rules/","game",1
+"game","k1 game fishing","/guides/fishing-game-guide/","game",2
+"comparison","k1 game card games vs mines","/guides/card-games-vs-mines/","comparison",2
+"safety","k1 game risk levels","/guides/game-risk-levels/","safety",2
+"tutorial","k1 game beginner mistakes","/guides/beginner-mistakes/","tutorial",2
+"faq","k1 game games faq","/guides/game-library-faq/","faq",3
+"safety","k1 game responsible play","/guides/responsible-play-guide/","safety",3
+"game","k1 game aviator","/guides/aviator-style-games/","game",3
+"freshness","k1 game library notes","/guides/weekly-game-notes/","freshness",3
+hub,"Card Games","/card-games/","hub",1
+hub,"Mines Guide","/mines-guide/","hub",2
+hub,"Crash Games","/crash-games/","hub",3
+hub,"Fishing Games","/fishing-games/","hub",4
