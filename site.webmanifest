@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Game Library",
+    "short_name":  "K1 Game Library",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game earning app guide for Pakistan users, explaining game categories, responsible play, reward expectations, beginner steps and risk-aware usage notes.",
+    "icons":  [
+
+              ]
+}
