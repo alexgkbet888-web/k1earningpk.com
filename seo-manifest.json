@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1earningpk.com",
+  "brand": "K1 Earning PK",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1earningpk.com/",
+  "siteType": "authority",
+  "positioning": "K1 game library, earning app and game-mode guide site",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 fishing",
+    "K1 game earning app"
+  ],
+  "secondaryKeywords": [
+    "K1 fishing game guide",
+    "K1 teen patti guide",
+    "K1 mines guide",
+    "K1 crash games"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1earningpk.com/sitemap.xml",
+    "robotsUrl": "https://k1earningpk.com/robots.txt",
+    "feedUrl": "https://k1earningpk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1earningpk.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
